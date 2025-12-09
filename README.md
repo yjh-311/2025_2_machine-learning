@@ -28,7 +28,8 @@
 
 ## 4. 결과 시각화
 
-\*\*\*모델 학습이 안정적으로 이루어졌음을 보여주는 Loss Curve와 mAP Curve 그래프를 첨부합니다.\*\*\*
+![Image](./Train/image.png)
+![Image](./Train/image(1).png)
 
 ## 5. 성능 분석 및 한계점
 
