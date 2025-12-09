@@ -77,7 +77,7 @@ results = model.predict(
   conf=0.25,
   imgsz=416,
   save=True,
-  exist_ok=True, # 기존에 폴더가 있어도 덮어쓰도록 허용
+  exist_ok=True,
 )
 ```
 
